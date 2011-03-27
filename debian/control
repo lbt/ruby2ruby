@@ -12,7 +12,7 @@ Homepage: http://seattlerb.rubyforge.org/
 
 Package: ruby-ruby2ruby
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, ruby-sexp_processor (~> 3.0), ruby-ruby-parser (~> 2.0), minitest (>= 1.7.1)
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby-sexp-processor (> 3.0), ruby-ruby-parser (> 2.0), minitest (>= 1.7.1)
 # sexp_processor (~> 3.0), ruby_parser (~> 2.0), rubyforge (>= 2.0.4), minitest (>= 1.7.1), ParseTree (~> 3.0), hoe (>= 2.6.2)
 Description: ruby2ruby provides a means of generating pure ruby code easily from RubyParser compatible Sexps
  ruby2ruby provides a means of generating pure ruby code easily from
