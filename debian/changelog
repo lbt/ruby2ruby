@@ -1,5 +1,5 @@
 ruby2ruby (1.2.5-1) UNRELEASED; urgency=low
 
-  * Initial release (Closes: #nnnn)
+  * Initial release using gem2deb
 
  -- David Greaves <david@ash.dgreaves.com>  Sat, 26 Mar 2011 15:00:18 +0000
