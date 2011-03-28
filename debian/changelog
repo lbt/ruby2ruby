@@ -1,3 +1,9 @@
+ruby2ruby (1.2.5-3) unstable; urgency=low
+
+  * Update dependencies
+
+ -- David Greaves <david@dgreaves.com>  Mon, 28 Mar 2011 13:05:47 +0100
+
 ruby2ruby (1.2.5-1) UNRELEASED; urgency=low
 
   * Initial release using gem2deb
